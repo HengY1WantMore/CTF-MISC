@@ -115,7 +115,7 @@
 
 - 根据文件头判断类型
 
-<img src="/Users/jj/Library/Application Support/typora-user-images/image-20211010170221882.png" alt="image-20211010170221882" style="zoom:30%;float:left "/>
+<img src="https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B8%B8%E8%A7%81%E6%96%87%E4%BB%B6%E5%A4%B4.png" alt="image-20211010170221882" style="zoom:30%;float:left "/>
 
 - 根据文件后缀补充文件头
 - 根据文件尾部补充文件信息与类型
