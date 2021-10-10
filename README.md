@@ -10,7 +10,7 @@
 
 > 备注：出现番号的就是存在脚本的
 
-![ctf-杂项-思维导图](/Users/jj/Documents/ctf-杂项-思维导图.png)
+![ctf-杂项-思维导图](https://github.com/hengyi666/CTF-MISC/blob/main/ctf-%E6%9D%82%E9%A1%B9-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
 ##  大神脚本/小改脚本:footprints:
 
