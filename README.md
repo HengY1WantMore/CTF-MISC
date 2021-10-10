@@ -31,10 +31,10 @@
 ##  小工具:tophat:
 
 - 检测 PNG 和 BMP 中隐藏的隐写数据 **[zsteg](https://github.com/zed-0xff/zsteg)**  
-- 伪加密压缩包 **ZipCenOp**
-- jar反编译 **Bytecode-Viewer**
-- 图片处理  **stegsolve-macos** 
-- RAR密码破解工具 **crark52**
+- 伪加密压缩包 **[ZipCenOp](https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B7%A5%E5%85%B7%E5%8C%85/ZipCenOp.jar)**
+- jar反编译 **[Bytecode-Viewer](https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B7%A5%E5%85%B7%E5%8C%85/Bytecode-Viewer-2.10.16.jar)**
+- 图片处理  **[stegsolve-macos](https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B7%A5%E5%85%B7%E5%8C%85/crark52-mac-opencl-rar.zip)** 
+- RAR密码破解工具 **[crark52](https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B7%A5%E5%85%B7%E5%8C%85/stegsolve.jar)**
 
 ##  做题姿势分享:zap:
 
@@ -115,7 +115,7 @@
 
 - 根据文件头判断类型
 
-<img src="https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B8%B8%E8%A7%81%E6%96%87%E4%BB%B6%E5%A4%B4.png" alt="image-20211010170221882" style="zoom:30%;float:left "/>
+<img src="https://github.com/hengyi666/CTF-MISC/blob/main/%E5%B8%B8%E8%A7%81%E6%96%87%E4%BB%B6%E5%A4%B4.png" alt="image-20211010170221882" style="zoom:10%;float:left "/>
 
 - 根据文件后缀补充文件头
 - 根据文件尾部补充文件信息与类型
@@ -170,6 +170,7 @@ dd if=s1 bs=1 skip=364 of=d1</hr>
 dd if=源文件名 bs=1 skip=开始分离的字节数 of=目标文件名
 </codes></pre>
 </details>
+
 #### 010Editor
 
 > 这个不用说了吧
