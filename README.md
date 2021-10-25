@@ -8,7 +8,7 @@
 
 ##  WriteUp
 
-- [2021年广东省强网杯]()
+- [2021年广东省强网杯](https://github.com/hengyi666/CTF-MISC/blob/main/2021%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%BC%BA%E7%BD%91%E6%9D%AF.md)
 
 ## 思维导图:sailboat:
 
